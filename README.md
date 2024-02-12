@@ -2,10 +2,9 @@
 
 
 ![Power BI](https://img.shields.io/badge/Analytics-Power_BI-yellow?logo=powerbi&logoColor=white&style=flat-square) <br>
-![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/) <br>
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue?logo=sqlite&logoColor=white&style=flat-square) <br>
 ![Python](https://img.shields.io/badge/Programming-Python-blue?logo=python&logoColor=white&style=flat-square) <br>
-![Microsoft Teams](https://img.shields.io/badge/Communication-Microsoft_Teams-purple?logo=microsoft-teams&logoColor=white&style=flat-square)
-<br>
+
 
 
 <hr style="border: 2px solid gray;">
